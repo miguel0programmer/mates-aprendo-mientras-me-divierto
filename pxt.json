@@ -1,0 +1,47 @@
+{
+    "name": "mates aprendo mientras me divierto - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "sprite-scaling": "*",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "controller": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "color-coded-tilemap": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "animation": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "pxt-raycasting": "github:aqeeaqee/pxt-raycasting#v0.3.15",
+        "carnival": "github:microsoft/arcade-carnival#v0.0.3",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "Glitch_MAGT.Game": "pkg:Glitch_MAGT.Game.json"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py",
+        "Glitch_MAGT.Game.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.10.36",
+        "tag": "v1.10.36",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/3a5a7e13703edf0412c17bdb9b1469e282a5b31b",
+        "target": "1.10.36",
+        "pxt": "8.3.9",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
